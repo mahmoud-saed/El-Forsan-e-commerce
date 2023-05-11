@@ -1,1 +1,1 @@
-# El-Forsan-E-commerce-final-version-
+e-commerce website using React.js for frontend and Django for backend
